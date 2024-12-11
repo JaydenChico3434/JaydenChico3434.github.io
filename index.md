@@ -4,7 +4,7 @@ I am a computer science major at CSUF. I plan to graduate in 2027 spring. I like
 
 ## Computer Science Labs 
  My GitHub page is https://github.com/JaydenChico3434
- ### CPSC 120
+## CPSC 120
 
 1. _Lab 3 Part-1_
 * There are many things that I liked in this lab. To name a few I like the application and the calculator. This is good because this allowed me and my partner, Jesus Lopez, to see real-world applications of the code we could use or make in the real world. The code introduced functions, which is very useful because this was a big stepping stone for the next labs.
